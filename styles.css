@@ -1,0 +1,30 @@
+.navbar{
+    background-color: rgb(41, 46, 38);
+}
+.nav-link{
+    color:#ffffff !important;
+}
+body{
+    background-color: #e4e4e4 !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.top-nav{
+    background-color: rgb(210, 210, 210);
+    height: 2em;
+    font-size: small;
+}
+
+
+ li:hover{
+    background-color: aquamarine;
+} 
+
+.logo{
+    font-size: 250%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.active{
+    background-color: aquamarine;
+}
